@@ -1,0 +1,5 @@
+{
+  "name": "BackPro",
+  "description": "An AI-powered photo editor that merges your past and present. Upload a childhood photo and a recent one to generate a unique image of your adult self hugging your younger self.",
+  "requestFramePermissions": []
+}
